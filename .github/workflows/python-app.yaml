@@ -1,6 +1,21 @@
 name: Python package
 
-on: [push]
+on:
+  # Trigger the workflow on push or pull request,
+  # but only for the main branch
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+  # Also trigger on page_build, as well as release created events
+  page_build:
+  release:
+    types: # This configuration does not affect the page_build event above
+      - created
+
+
 
 jobs:
   build:
@@ -28,11 +43,11 @@ jobs:
       - name: Bash
         shell: bash -l {0}
         run: |
-          conda install  -y -c conda-forge rdkit 
+          conda list 
       - name: PowerShell Core
         shell: pwsh
         run: |
-          conda install -y -c conda-forge rdkit 
+          conda list
       - name: Lint with flake8
         run: |
           # stop the build if there are Python syntax errors or undefined names
