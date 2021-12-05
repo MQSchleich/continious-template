@@ -1,4 +1,4 @@
-![ContiniousWorfklow](https://github.com/MQSchleich/continuous-template/actions/workflows/python-app/badge.svg)
+![Test](https://github.com/MQSchleich/continuous-template/actions/workflows/python-app.yaml/badge.svg?branch=main)
 
 
 # continious-template
