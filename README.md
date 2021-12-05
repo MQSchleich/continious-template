@@ -1,4 +1,4 @@
-![AwesomePackage](https://github.com/github/docs/actions/workflows/python_app.yml/badge.svg)
+![ContiniousWorfklow](https://github.com/MQSchleich/continuous-template/actions/workflows/python-app/badge.svg)
 
 
 # continious-template
