@@ -3,6 +3,9 @@ import sys
 
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 
+from tests.base_test_case import BaseTestCase, TestConfig
 
-def test_test():
-    print("Yeah")
+
+class TestYourApp(BaseTestCase):
+    def test_one():
+        pass
