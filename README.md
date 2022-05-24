@@ -7,7 +7,7 @@
 # continious-template
 A template for rapid, agile or lean development of python applications using the GitHub CI. 
 
-#Why? 
+# Why? 
 
 Because over time the template can adapt to the need of packages in terms of code quality, security, reliablility, and maintainability. Even though it it may be hard from time to time adjusting for small improvements will most likely compound to create an amazing and lean template.
 
