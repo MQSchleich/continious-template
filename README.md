@@ -1,7 +1,21 @@
+🟥 Maintance on GitHub is stopped and all code moves to Codeberg 🟥
+
+👉 Code from this repository obtained from GitHub is not licensed and not legal to use.
+
+👉 [New repo](https://codeberg.org/cap_jmk/continuous-template)
+
+
+
 ![Python Versions](https://img.shields.io/badge/python-3.6%20%7C%203.7%20%7C%203.8%20%7C%203.9-blue) 
 ![Style Black](./black_badge.svg) 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Test](https://github.com/MQSchleich/continuous-template/actions/workflows/python-app.yaml/badge.svg?branch=main)
+
+🟥 Maintance on GitHub is stopped and all code moves to Codeberg 🟥
+
+👉 Code from this repository obtained from GitHub is not licensed and not legal to use.
+
+👉 [New repo](https://codeberg.org/cap_jmk/continuous-template)
 
 
 # continious-template
