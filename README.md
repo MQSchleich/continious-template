@@ -11,5 +11,10 @@ A template for rapid, agile or lean development of python applications using the
 
 Because over time the template can adapt to the need of packages in terms of code quality, security, reliablility, and maintainability. Even though it it may be hard from time to time adjusting for small improvements will most likely compound to create an amazing and lean template.
 
+# Flask DB upgrade 
+
+Check the commands in `flask_model_gen.sh` on how to generate models out of an exisiting database. 
 # Check how to write decent PyPi packages 
 https://github.com/judy2k/publishing_python_packages_talk
+
+
